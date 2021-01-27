@@ -25,7 +25,9 @@ While it is not imperative for our games to meet all of these criteria, the more
 
 #### Exploratory Data Analysis
 
-We constructed two visualizations in particular that communicate insights worth mentioning. 
+- Our data suggested that as player counts increase, volatility in the number of players increases at a greater rate. This suggests that player counts get more unpredictable as number of players increases. 
+
+- Events, surprisingly, did not strongly impact number of twitch viewers. This suggests that either our investigation is examining the wrong type of 'event' or that events are not an effective way at increasing viewership. 
 
 #### Model Construction
 
